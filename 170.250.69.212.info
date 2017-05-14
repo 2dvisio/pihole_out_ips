@@ -1,0 +1,199 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=170.250.69.212?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       170.250.0.0 - 170.250.255.255
+CIDR:           170.250.0.0/16
+NetName:        HOTWI
+NetHandle:      NET-170-250-0-0-1
+Parent:         NET170 (NET-170-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Hotwire Communications (HOTWI)
+RegDate:        2015-11-02
+Updated:        2015-11-02
+Ref:            https://whois.arin.net/rest/net/NET-170-250-0-0-1
+
+
+OrgName:        Hotwire Communications
+OrgId:          HOTWI
+Address:        One Belmont Avenue
+Address:        Suite 1100
+City:           Bala Cynwyd
+StateProv:      PA
+PostalCode:     19004
+Country:        US
+RegDate:        2004-05-10
+Updated:        2017-01-28
+Comment:        Information regarding this Autonomous System can be found at http://as23089.peeringdb.com
+Ref:            https://whois.arin.net/rest/org/HOTWI
+
+ReferralServer:  rwhois://rwhois.gethotwired.net:4321
+
+OrgTechHandle: LAWSO19-ARIN
+OrgTechName:   Lawson, Jeff 
+OrgTechPhone:  +1-215-720-4028 
+OrgTechEmail:  jlawson@hotwiremail.com
+OrgTechRef:    https://whois.arin.net/rest/poc/LAWSO19-ARIN
+
+OrgTechHandle: CMR33-ARIN
+OrgTechName:   Rios, Chris M
+OrgTechPhone:  +1-484-572-6016 
+OrgTechEmail:  crios@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/CMR33-ARIN
+
+OrgTechHandle: JSL39-ARIN
+OrgTechName:   Slattery, Jim 
+OrgTechPhone:  +1-610-324-6303 
+OrgTechEmail:  JSlattery@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/JSL39-ARIN
+
+OrgTechHandle: DCP8-ARIN
+OrgTechName:   Pacheco, Donaldo C
+OrgTechPhone:  +1-954-417-6745 
+OrgTechEmail:  donaldo.pacheco@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/DCP8-ARIN
+
+OrgTechHandle: NRG-ARIN
+OrgTechName:   Goodman, Nathan R
+OrgTechPhone:  +1-209-669-1488 
+OrgTechEmail:  ngoodman@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/NRG-ARIN
+
+OrgNOCHandle: JSL39-ARIN
+OrgNOCName:   Slattery, Jim 
+OrgNOCPhone:  +1-610-324-6303 
+OrgNOCEmail:  JSlattery@hotwirecommunication.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/JSL39-ARIN
+
+OrgTechHandle: DRK9-ARIN
+OrgTechName:   Ketterhagen, Donald Robert
+OrgTechPhone:  +1-919-609-4669 
+OrgTechEmail:  bob@ketterhagen.com
+OrgTechRef:    https://whois.arin.net/rest/poc/DRK9-ARIN
+
+OrgAbuseHandle: JSL39-ARIN
+OrgAbuseName:   Slattery, Jim 
+OrgAbusePhone:  +1-610-324-6303 
+OrgAbuseEmail:  JSlattery@hotwirecommunication.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/JSL39-ARIN
+
+# end
+
+
+# start
+
+NetRange:       170.250.0.0 - 170.250.255.255
+CIDR:           170.250.0.0/16
+NetName:        FISION-BLK-170-250-0-0-16
+NetHandle:      NET-170-250-0-0-2
+Parent:         HOTWI (NET-170-250-0-0-1)
+NetType:        Reallocated
+OriginAS:       AS23089, AS31793
+Organization:   Hotwire Fision (HF-138)
+RegDate:        2015-11-04
+Updated:        2015-11-04
+Comment:        Addresses within this range are NON-PORTABLE
+Comment:        In use at development - US - FL
+Ref:            https://whois.arin.net/rest/net/NET-170-250-0-0-2
+
+
+OrgName:        Hotwire Fision
+OrgId:          HF-138
+Address:        One Belmont Avenue
+Address:        Suite 1100
+City:           Bala Cynwyd
+StateProv:      PA
+PostalCode:     19004
+Country:        US
+RegDate:        2015-01-27
+Updated:        2015-08-03
+Comment:        Information regarding this Autonomous System can be found at http://as23089.peeringdb.com
+Ref:            https://whois.arin.net/rest/org/HF-138
+
+ReferralServer:  rwhois://rwhois.gethotwired.net:4321
+
+OrgTechHandle: CMR33-ARIN
+OrgTechName:   Rios, Chris M
+OrgTechPhone:  +1-484-572-6016 
+OrgTechEmail:  crios@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/CMR33-ARIN
+
+OrgTechHandle: ADMIN5567-ARIN
+OrgTechName:   Administrator
+OrgTechPhone:  +1-484-572-6200 
+OrgTechEmail:  ipadmin@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/ADMIN5567-ARIN
+
+OrgTechHandle: LAWSO19-ARIN
+OrgTechName:   Lawson, Jeff 
+OrgTechPhone:  +1-215-720-4028 
+OrgTechEmail:  jlawson@hotwiremail.com
+OrgTechRef:    https://whois.arin.net/rest/poc/LAWSO19-ARIN
+
+OrgTechHandle: JSL39-ARIN
+OrgTechName:   Slattery, Jim 
+OrgTechPhone:  +1-610-324-6303 
+OrgTechEmail:  JSlattery@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/JSL39-ARIN
+
+OrgNOCHandle: JSL39-ARIN
+OrgNOCName:   Slattery, Jim 
+OrgNOCPhone:  +1-610-324-6303 
+OrgNOCEmail:  JSlattery@hotwirecommunication.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/JSL39-ARIN
+
+OrgTechHandle: DCP8-ARIN
+OrgTechName:   Pacheco, Donaldo C
+OrgTechPhone:  +1-954-417-6745 
+OrgTechEmail:  donaldo.pacheco@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/DCP8-ARIN
+
+OrgTechHandle: DRK9-ARIN
+OrgTechName:   Ketterhagen, Donald Robert
+OrgTechPhone:  +1-919-609-4669 
+OrgTechEmail:  bob@ketterhagen.com
+OrgTechRef:    https://whois.arin.net/rest/poc/DRK9-ARIN
+
+OrgTechHandle: NRG-ARIN
+OrgTechName:   Goodman, Nathan R
+OrgTechPhone:  +1-209-669-1488 
+OrgTechEmail:  ngoodman@hotwirecommunication.com
+OrgTechRef:    https://whois.arin.net/rest/poc/NRG-ARIN
+
+OrgAbuseHandle: JSL39-ARIN
+OrgAbuseName:   Slattery, Jim 
+OrgAbusePhone:  +1-610-324-6303 
+OrgAbuseEmail:  JSlattery@hotwirecommunication.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/JSL39-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to rwhois.gethotwired.net:4321.
+

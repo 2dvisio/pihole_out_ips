@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2017-05-14 12:44:12 (BRT -03:00)
+
+inetnum:     187.61.96.0/20
+aut-num:     AS53153
+abuse-c:     CIGRE4
+owner:       CINTE Telecom Comercio e Servicos Ltda.
+ownerid:     08.378.641/0001-96
+responsible: Iuan Purcaru
+owner-c:     CIGRE4
+tech-c:      CIGRE4
+inetrev:     187.61.96.0/20
+nserver:     ns1.cinte.com.br
+nsstat:      20170513 AA
+nslastaa:    20170513
+nserver:     ns2.cinte.com.br
+nsstat:      20170513 AA
+nslastaa:    20170513
+created:     20121121
+changed:     20130307
+
+nic-hdl-br:  CIGRE4
+person:      CINTE - Gerencia de Redes
+created:     20110420
+changed:     20170418
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

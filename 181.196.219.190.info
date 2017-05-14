@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-05-14 12:44:08 (BRT -03:00)
+
+inetnum:     181.196/16
+status:      allocated
+aut-num:     N/A
+owner:       CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
+ownerid:     EC-ANSA-LACNIC
+responsible: Evelin Gavilanes
+address:     Jorge Drom y Gaspar de Villaroel, 954, 1 er Piso
+address:     3110 - Quito - EC
+country:     EC
+phone:       +593 2 3731700 [21283]
+owner-c:     EVG8
+tech-c:      VMR
+abuse-c:     VMR
+inetrev:     181.196/16
+nserver:     PICHINCHA.ANDINANET.NET  
+nsstat:      20170512 AA
+nslastaa:    20170512
+nserver:     TUNGURAHUA.ANDINANET.NET  
+nsstat:      20170512 AA
+nslastaa:    20170512
+created:     20130813
+changed:     20130813
+
+nic-hdl:     EVG8
+person:      Evelin Gavilanes
+e-mail:      evelin.gavilanes@CNT.GOB.EC
+address:     9 de Octubre y Luis Cordero, 24, 113
+address:     3110 - Quito - Pi
+country:     EC
+phone:       +593 02 3731700 [21283]
+created:     20140506
+changed:     20160824
+
+nic-hdl:     VMR
+person:      Evelin Gavilanes
+e-mail:      noc@ANDINANET.NET
+address:     Edificio Droira, s/n, esquina
+address:     3110 - Quito - EC
+country:     EC
+phone:       +593 2 2944800 [882]
+created:     20030402
+changed:     20140611
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

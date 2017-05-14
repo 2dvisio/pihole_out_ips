@@ -1,0 +1,56 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '114.96.0.0 - 114.103.255.255'
+
+inetnum:        114.96.0.0 - 114.103.255.255
+netname:        CHINANET-AH
+descr:          CHINANET Anhui PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+admin-c:        JW89-AP
+tech-c:         JW89-AP
+country:        CN
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-AH
+mnt-routes:     MAINT-CHINANET-AH
+source:         APNIC
+mnt-irt:        IRT-CHINANET-CN
+changed:        hm-changed@apnic.net 20080516
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+changed:        anti-spam@ns.chinanet.cn.net 20101115
+source:         APNIC
+
+person:         Jinneng Wang
+address:        17/F, Postal Building No.120 Changjiang
+address:        Middle Road, Hefei, Anhui, China
+country:        CN
+phone:          +86-551-2659073
+fax-no:         +86-551-2659287
+e-mail:         ahdata@189.cn
+nic-hdl:        JW89-AP
+mnt-by:         MAINT-CHINANET-AH
+changed:        wang@mail.hf.ah.cninfo.net 19990818
+changed:        hm-changed@apnic.net 20140221
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+

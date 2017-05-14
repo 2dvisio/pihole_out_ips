@@ -1,0 +1,68 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '175.160.0.0 - 175.175.255.255'
+
+inetnum:        175.160.0.0 - 175.175.255.255
+netname:        UNICOM-LN
+descr:          CHINA UNICOM Liaoning province network
+descr:          China UNICOM
+descr:          No.21,Jin-Rong Street,
+descr:          Beijing 100140
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-lower:      MAINT-CNCGROUP-LN
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-irt:        IRT-CU-CN
+changed:        hm-changed@apnic.net 20100108
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Jin-Rong Street
+address:        Beijing,100140
+address:        P.R.China
+e-mail:         zhouxm@chinaunicom.cn
+abuse-mailbox:  zhouxm@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+changed:        zhouxm@chinaunicom.cn 20101110
+changed:        hm-changed@apnic.net 20101116
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         abuse@cnc-noc.net
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+changed:        abuse@cnc-noc.net 20090408
+mnt-by:         MAINT-CNCGROUP
+source:         APNIC
+
+% Information related to '175.160.0.0/12AS4837'
+
+route:          175.160.0.0/12
+descr:          China Unicom Liaoning Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20100108
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+

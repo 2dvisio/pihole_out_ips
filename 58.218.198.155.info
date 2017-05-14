@@ -1,0 +1,78 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '58.208.0.0 - 58.223.255.255'
+
+inetnum:        58.208.0.0 - 58.223.255.255
+netname:        CHINANET-JS
+descr:          CHINANET jiangsu province network
+descr:          China Telecom
+descr:          A12,Xin-Jie-Kou-Wai Street
+descr:          Beijing 100088
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CJ186-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-JS
+mnt-routes:     MAINT-CHINANET-JS
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+status:         ALLOCATED PORTABLE
+source:         APNIC
+mnt-irt:        IRT-CHINANET-CN
+changed:        hm-changed@apnic.net 20050624
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+changed:        anti-spam@ns.chinanet.cn.net 20101115
+source:         APNIC
+
+role:           CHINANET JIANGSU
+address:        260 Zhongyang Road,Nanjing 210037
+country:        CN
+phone:          +86-25-86588231
+phone:          +86-25-86588745
+fax-no:         +86-25-86588104
+e-mail:         ip@jsinfo.net
+remarks:        send anti-spam reports to spam@jsinfo.net
+remarks:        send abuse reports to abuse@jsinfo.net
+remarks:        times in GMT+8
+admin-c:        CH360-AP
+tech-c:         CS306-AP
+tech-c:         CN142-AP
+nic-hdl:        CJ186-AP
+remarks:        www.jsinfo.net
+notify:         ip@jsinfo.net
+mnt-by:         MAINT-CHINANET-JS
+changed:        dns@jsinfo.net 20090831
+changed:        ip@jsinfo.net 20090831
+changed:        hm-changed@apnic.net 20090901
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+

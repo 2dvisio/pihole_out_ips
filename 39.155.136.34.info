@@ -1,0 +1,63 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '39.128.0.0 - 39.191.255.255'
+
+inetnum:        39.128.0.0 - 39.191.255.255
+netname:        CMNET
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+admin-c:        JZ2449-AP
+tech-c:         HL1318-AP
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+changed:        hm-changed@apnic.net 20110401
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CMCC
+mnt-irt:        IRT-CHINAMOBILE-CN
+source:         APNIC
+
+irt:            IRT-CHINAMOBILE-CN
+address:        China Mobile Communications Corporation
+address:        29, Jinrong Ave., Xicheng District, Beijing, 100032
+e-mail:         abuse@chinamobile.com
+abuse-mailbox:  abuse@chinamobile.com
+admin-c:        CT74-AP
+tech-c:         CT74-AP
+auth:           # Filtered
+mnt-by:         MAINT-CN-CMCC
+changed:        abuse@chinamobile.com 20141118
+source:         APNIC
+
+person:         haijun li
+nic-hdl:        HL1318-AP
+e-mail:         hostmaster@chinamobile.com
+address:        29,Jinrong Ave, Xicheng district,beijing,100032
+phone:          +86 1052686688
+fax-no:         +86 10 52616187
+country:        CN
+changed:        hostmaster@chinamobile.com 20161129
+mnt-by:         MAINT-CN-CMCC
+abuse-mailbox:  abuse@chinamobile.com
+source:         APNIC
+
+person:         jianqiang zhang
+address:        29,Jinrong Ave, Xicheng district,beijing,100032
+country:        CN
+phone:          +86 10 66006688
+e-mail:         hostmaster@chinamobile.com
+nic-hdl:        JZ2449-AP
+mnt-by:         MAINT-CN-CMCC
+changed:        hostmaster@chinamobile.com 20110824
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+

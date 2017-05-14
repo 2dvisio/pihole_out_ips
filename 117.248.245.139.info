@@ -1,0 +1,72 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '117.248.0.0 - 117.248.255.255'
+
+inetnum:        117.248.0.0 - 117.248.255.255
+netname:        BB-Multiplay
+descr:          Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
+country:        IN
+admin-c:        BH155-AP
+tech-c:         DB374-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-IN-PER-DOT
+mnt-irt:        IRT-BSNL-IN
+changed:        hostmaster@bsnl.in 20140607
+source:         APNIC
+
+irt:            IRT-BSNL-IN
+address:        Internet Cell
+address:        Bharat Sanchar Nigam Limited
+address:        8th Floor,148-B Statesman House
+address:        Barakhamba Road, New Delhi - 110 001
+e-mail:         abuse@bsnl.in
+abuse-mailbox:  abuse@bsnl.in
+admin-c:        NC83-AP
+tech-c:         CGMD1-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-DOT
+changed:        abuse@bsnl.in 20101111
+changed:        hm-changed@apnic.net 20101112
+source:         APNIC
+
+person:         BSNL Hostmaster
+nic-hdl:        BH155-AP
+e-mail:         hostmaster@bsnl.in
+address:        Broadband Networks
+address:        Bharat Sanchar Nigam Limited
+address:        2nd Floor, Telephone Exchange, Sector 62
+address:        Noida
+phone:          +91-120-2404243
+fax-no:         +91-120-2404241
+country:        IN
+changed:        dnwplg@bsnl.in 20021108
+mnt-by:         MAINT-IN-PER-DOT
+source:         APNIC
+
+person:         DGM Broadband
+address:        BSNL NOC Bangalore
+country:        IN
+phone:          +91-080-25805800
+fax-no:         +91-080-25800022
+e-mail:         dnwplg@bsnl.in
+nic-hdl:        DB374-AP
+mnt-by:         MAINT-IN-PER-DOT
+changed:        hostmaster@bsnl.in 20110218
+source:         APNIC
+
+% Information related to '117.248.240.0/20AS9829'
+
+route:          117.248.240.0/20
+descr:          BSNL Internet
+country:        IN
+origin:         AS9829
+mnt-lower:      MAINT-IN-DOT
+mnt-routes:     MAINT-IN-DOT
+mnt-by:         MAINT-IN-AS9829
+changed:        dnw_jtotech@bsnl.in 20070914
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+

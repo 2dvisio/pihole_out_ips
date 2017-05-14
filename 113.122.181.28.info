@@ -1,0 +1,67 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.120.0.0 - 113.127.255.255'
+
+inetnum:        113.120.0.0 - 113.127.255.255
+netname:        CHINANET-SD
+descr:          CHINANET SHANDONG PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         XR55-AP
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SD
+mnt-routes:     MAINT-CHINANET-SD
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+source:         APNIC
+mnt-irt:        IRT-CHINANET-CN
+changed:        hm-changed@apnic.net 20081103
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+changed:        anti-spam@ns.chinanet.cn.net 20101115
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+person:         Xin    Ruosheng
+nic-hdl:        XR55-AP
+e-mail:         ipreport@sdtele.com
+address:        No.999,    road    Shunhua,    Jinan,    Shandong    province,China
+phone:          +86-531-83190000
+fax-no:         +86-531-83190000
+country:        CN
+changed:        ipreport@sdtele.com  20060905
+mnt-by:         MAINT-CHINANET-SD
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+
